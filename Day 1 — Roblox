@@ -1,0 +1,50 @@
+# Day 1 — Roblox
+
+## Signal 01: Roblox UI
+
+### Observation
+The Play button appears green rather than the blue styling I
+remember seeing previously.
+
+### Question
+Why did Roblox change the Play button's color?
+
+### Investigation
+[What I checked]
+
+### Findings
+[What I actually discovered]
+
+---
+
+## Signal 02: Roblox Game Testing
+
+### Goal
+Test Roblox experiences while paying attention to:
+
+- gameplay behavior
+- UI/UX
+- bugs
+- unexpected behavior
+- performance
+- interesting mechanics
+- things that seem worth investigating
+
+### Games Tested
+
+| Experience | What I tested | Interesting finding |
+|---|---|---|
+| Game 1 | ... | ... |
+| Game 2 | ... | ... |
+
+### Notes
+[Observations]
+
+Worth exploring further.
+
+What I tried
+What I liked
+What I didn't like
+What was difficult
+Whether I'd do it again
+Anything I noticed
