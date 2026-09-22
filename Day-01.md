@@ -10,6 +10,7 @@ Games will be selected randomly during the session.
 
 ### Game 1
 **Game:**
+
 **Developer:**
 **Genre:**
 
