@@ -1,27 +1,45 @@
-# Signal Search
+# 📡 Signal Search
 
-A 14-day experiment to figure out what kinds of technical and creative work I actually enjoy.
+A 14-day experiment in curiosity, investigation, and making.
 
-## Why
+I’m using this project to follow interesting things I notice while
+playing games, making things, experimenting with technology, and
+learning.
 
-I have a lot of interests, but I don't want to choose a career based on what sounds interesting on paper.
+The rule is simple:
 
-Instead of making another giant list of careers, I'm going to spend two weeks trying different things and documenting what happens.
+> Notice something. Follow the signal. Find out what happens.
 
-The goal isn't to figure everything out.
+## What I'm investigating
 
-It's just to collect some evidence.
+### 🎮 Game Testing
+Testing games to understand their mechanics, systems, interactions,
+UX, and unexpected behavior.
 
-## What I'm tracking
+### 🔎 Investigations
+Following strange, interesting, or confusing observations until I
+understand them better.
 
-For each day:
+### 📝 Field Notes
+Documenting what I find along the way.
 
-* What I tried
-* What I liked
-* What I didn't like
-* What was difficult
-* Whether I'd do it again
-* Anything I noticed
+## The 14-Day Experiment
+
+| Day | Signal | Status |
+|---|---|---|
+| 01 | Roblox | 🔎 Investigating |
+| 02 | | |
+| 03 | | |
+...
+| 14 | | |
+
+## Golden Questions
+
+> What happens when I do something?
+
+> Why did the game respond that way?
+
+> What would happen if I changed the rule?
 
 
 ## Schedule
