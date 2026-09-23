@@ -2,7 +2,7 @@
 
 **Date:** September 22, 2026
 **Platform:** Roblox
-**Status:** 🔎 Investigating
+**Status:** 🔎 Investigate- done
 
 ## 🎮 Game Testing
 
