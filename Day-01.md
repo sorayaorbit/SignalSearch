@@ -9,20 +9,10 @@
 Games will be selected randomly during the session.
 
 ### Game 1
-**Game:**
+**Game:** Wanted
 
-**Developer:**
+**Developer:** DevvGames
 **Genre:**
-
-[Field report]
-
-### Game 2
-**Game:**
-**Developer:**
-**Genre:**
-
-[Field report]
-
 ---
 
 ## 🔎 Other Signals
@@ -33,21 +23,19 @@ Things I notice that aren't specific to one game.
 
 **Observation:**
 
->
+> General basic movements, Driving mechanics were and easy to pick up and learn
 
 **Question:**
 
->
+> N/A
 
 **Investigation:**
 
->
+> Result: Investigation stopped early
 
 **Findings:**
 
->
-
->
+> Playing a game continuously without an interesting question or signal became boring and frustrating.
 
 ---
 
@@ -55,8 +43,8 @@ Things I notice that aren't specific to one game.
 
 **What signals did I find today?**
 
->
+> I didn't find a strong signal in Wanted. I mostly ended up playing without investigating anything specific, and eventually got bored and frustrated from continuing when I wasn't interested anymore.
 
 **What do I want to investigate next?**
 
->
+> Try another game and pay attention to what naturally catches my curiosity instead of forcing myself to keep playing.
