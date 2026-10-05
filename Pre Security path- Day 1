@@ -1,0 +1,16 @@
+## Day 1: Oct 5, 2026
+
+**What I did**
+- Took the TryHackMe career quiz and got Red Teamer
+- Started the Pre Security path since I'm starting from zero
+- Used DirBuster in the terminal to break into a practice bank and "transfer" over $9 billion (fake, safe sandbox)
+
+**What I learned**
+- DirBuster is a real tool. It guesses hidden pages and folders from a wordlist.
+- The terminal (PowerShell) was on my own computer the whole time. I never knew.
+
+**How it felt**
+Got the same rush I used to get from finding game exploits: "wait, I'm actually doing this."
+
+**Next**
+Try some safe PowerShell commands on my own machine (dir, ipconfig, whoami) and keep going with Pre Security.
