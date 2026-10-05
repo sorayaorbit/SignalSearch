@@ -1,6 +1,6 @@
 # 📡 Signal Search
 
-A 14-day experiment in curiosity, investigation, and making.
+A 14-day hands-on cybersecurity exploration project
 
 I’m using this project to follow interesting things I notice while
 playing games, making things, experimenting with technology, and
@@ -8,39 +8,44 @@ learning.
 
 The rule is simple:
 
-> Notice something. Follow the signal. Find out what happens.
+🧭 Areas exploring
+🔐 Cybersecurity labs
+🐧 Linux
+🌐 Networking
+🧪 Penetration testing / offensive security
+🌐 Web security
+🏢 Physical security
+⚡ Electronics / IoT security
+🔎 Investigations
+📝 Security reporting
 
-## What I'm investigating
 
-### 🎮 Game Testing
-Testing games to understand their mechanics, systems, interactions,
-UX, and unexpected behavior.
+🔎 CASE FILE #__
+Date:
+Room / Topic:
 
-### 🔎 Investigations
-Following strange, interesting, or confusing observations until I
-understand them better.
+🟥 WHAT?
+What am I investigating?
 
-### 📝 Field Notes
-Documenting what I find along the way.
+🟨 NOTICE
+What stood out or surprised me?
 
-## The 14-Day Experiment
+🟩 TRY
+What did I actually do?
 
-| Day | Signal | Status |
-|---|---|---|
-| 01 | Roblox | 🔎 Investigating |
-| 02 | | |
-| 03 | | |
-...
-| 14 | | |
+🟦 FOUND
+What did I learn or discover?
 
-## Golden Questions
+❓ STILL CURIOUS
+What didn't I understand yet?
 
-> What happens when I do something?
+🧠 ONE THING TO REMEMBER
 
-> Why did the game respond that way?
+➡️ NEXT
+What do I want to investigate next?
 
-> What would happen if I changed the rule?
-
+⭐ Interest: 😐 / 🙂 / 🔥
+Status: Started / Finished / Continue later
 
 ## Schedule
 
