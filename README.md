@@ -2,12 +2,6 @@
 
 A 14-day hands-on cybersecurity exploration project
 
-I’m using this project to follow interesting things I notice while
-playing games, making things, experimenting with technology, and
-learning.
-
-The rule is simple:
-
 🧭 Areas exploring
 🔐 Cybersecurity labs
 🐧 Linux
