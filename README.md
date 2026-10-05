@@ -14,36 +14,9 @@ A 14-day hands-on cybersecurity exploration project
 📝 Security reporting
 
 
-🔎 CASE FILE #__
-Date:
-Room / Topic:
-
-🟥 WHAT?
-What am I investigating?
-
-🟨 NOTICE
-What stood out or surprised me?
-
-🟩 TRY
-What did I actually do?
-
-🟦 FOUND
-What did I learn or discover?
-
-❓ STILL CURIOUS
-What didn't I understand yet?
-
-🧠 ONE THING TO REMEMBER
-
-➡️ NEXT
-What do I want to investigate next?
-
-⭐ Interest: 😐 / 🙂 / 🔥
-Status: Started / Finished / Continue later
-
 ## Schedule
 
-**Start:** September 22, 2026
-**End:** October 5, 2026
+**Start:** October 5, 2026
+**End:** , 2026
 
 I'll add to this as I go.
